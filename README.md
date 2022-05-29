@@ -29,7 +29,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=WmF1dGVLbS9VUkwtVXBsb2FkZXIgbWFzdGVy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ymwd/URL2FILE)
 
 #### Run in your VPS
 ```sh
